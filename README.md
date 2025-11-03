@@ -1,2 +1,2 @@
 # Planner
-Foi feito a refatoração do frontend do planner para adpatação do bacnkend
+Foi feito a refatoração do frontend do planner para adpatação do backend
